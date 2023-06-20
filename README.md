@@ -1,2 +1,2 @@
 # SE-UResNet
-A segmentation model developed for segmenting CXR images
+A novel segmentation model developed for segmenting multiple organs from 2D CXR images.
